@@ -26,3 +26,14 @@ The project calculates revenue, identifies best-selling products, finds highest 
 ✅ Export analysis report as CSV
 
 ## Project Structure
+Retail-Sales-Data-Analyzer
+
+│── analyzer.py
+│── sales_data.csv
+│── sales_analysis_report.csv
+│── requirements.txt
+│── README.md
+│── report.txt
+## Project Output
+
+![Sales Analysis Output](screenshots/sales_analysis_output.png)
