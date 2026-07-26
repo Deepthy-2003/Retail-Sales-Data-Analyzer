@@ -37,3 +37,22 @@ Retail-Sales-Data-Analyzer
 ## Project Output
 
 ![Sales Analysis Output](screenshots/sales_analysis_output.png)
+## Streamlit Dashboard
+
+This project also includes an interactive dashboard built using Streamlit.
+
+Features:
+- View sales data
+- Calculate total revenue
+- Find average revenue per sale
+- Identify best-selling products
+- Identify highest revenue products
+- Visualize revenue using charts
+
+
+## How to Run the Project
+
+### Install required libraries
+
+```bash
+pip install -r requirements.txt
