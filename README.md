@@ -42,6 +42,7 @@ Retail-Sales-Data-Analyzer
 │── screenshots
     │── sales_analysis_output.png
     │── dashboard.png
+        dashboard1.png
 ```
 
 ## Project Output
