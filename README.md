@@ -48,11 +48,11 @@ Features:
 - Identify best-selling products
 - Identify highest revenue products
 - Visualize revenue using charts
-
-
 ## How to Run the Project
 
-### Install required libraries
+### Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
+
+
